@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/f5a9a81e-8d2e-4bf0-9467-29cf2a59958d/resourceGroups/TP-AZURE-WEBAPP1/providers/Microsoft.Web/sites/webapp-tp-borhen1",
+    "appService.deploySubpath": "."
+}
